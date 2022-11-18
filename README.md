@@ -19,7 +19,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-      <a href = "hercuss.lomeu@gmail.com">
+      <a href = "mailto:hercuss.lomeu@gmail.com?subject="link HTML">
         <img width="30" src="gmail.svg">
       </a>
       <a href = "https://www.linkedin.com/in/henry-lomeu-souza-1923a3209/"> 
