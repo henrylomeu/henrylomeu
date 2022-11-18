@@ -1,8 +1,9 @@
 ### Eaii, Henry aqui! 👋
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=henrylomeu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylomeu&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylomeu&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img   align="right" height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=henrylomeu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  
 </div>
 <br>
 
@@ -26,5 +27,5 @@
       </a>   
 </div>
   
-![Snake animation](https://github.com/henrylomeu/henrylomeu/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/henrylomeu/henrylomeu/blob/output/github-contribution-grid-snake.svg)-->
 
