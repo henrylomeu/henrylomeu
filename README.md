@@ -18,10 +18,10 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-      <a href = "mailto:hercuss.lomeu@gmail.com?subject="link HTML">
+  <h1 align="center">LinkedIn</h1>
+      <!--<a href = "mailto:hercuss.lomeu@gmail.com?subject="link HTML">
         <img width="30" src="gmail.svg">
-      </a>
+      </a>-->
       <a href = "https://www.linkedin.com/in/henry-lomeu-souza-1923a3209/"> 
         <img width="25" src="linkedin.svg">
       </a>   
